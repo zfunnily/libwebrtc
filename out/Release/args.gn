@@ -1,0 +1,7 @@
+use_rtti = true
+use_custom_libcxx = false
+proprietary_codecs = true
+use_openh264 = true
+ffmpeg_branding = "Chrome"
+rtc_include_tests = false
+is_debug = false
